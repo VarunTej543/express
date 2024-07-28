@@ -19,7 +19,7 @@
 * [Triagers](#triagers)
 * [License](#license)
 
-# Herman 
+# Herman
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
